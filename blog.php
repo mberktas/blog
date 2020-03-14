@@ -106,7 +106,7 @@
         }
         .commentname{
             width: 70%;
-            margin: 0 auto;
+            margin-bottom: 10px;
         }
     }
 
